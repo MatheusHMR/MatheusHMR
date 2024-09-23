@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Henrique</h1>
-<h3 align="center">Mobile Developer and passionate AI / Machine Learning researcher</h3>
+<h3 align="center">Aspiring Data Engineer, AI / Machine Learning researcher and Mobile Developer in spare time lol</h3>
 
 - 🌱 I’m currently learning **ML using Jupyter Notebook, Python**
 
